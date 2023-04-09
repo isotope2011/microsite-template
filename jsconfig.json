@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "module": "commonjs",
+        "target": "es6",
+        "noImplicitAny": false,
+        "paths": {
+            "api/*": ["./api/*"],
+            "components/*": ["./components/*"],
+            "shared/*": ["./components/shared/*"],
+            "pages/*": ["./pages/*"],
+            "images/*": ["./images/*"],
+            "utils/*": ["./utils/*"]
+        }
+    },
+    "exclude": ["node_modules"]
+}
