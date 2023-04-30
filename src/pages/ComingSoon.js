@@ -16,7 +16,7 @@ export default function ComingSoon() {
                 alt="Coming Soon"
                 width="100%"
               />
-              <h1 className="display-5 fw-bold">Imani the Fixer</h1>
+              <h1 className="display-5 fw-bold">MicroSite Template</h1>
               <h3>Under Construction</h3>
               <div>
                 <span>Purchase the book on Amazon!</span>
