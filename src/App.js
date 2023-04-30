@@ -1,10 +1,10 @@
 import React from 'react';
-import Routes from './routes/route';
+import PageRoutes from './routes/route';
 import './css/index.css';
 
 function App() {
   return (
-    <Routes />
+    <PageRoutes />
   );
 }
 
