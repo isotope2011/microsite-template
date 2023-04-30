@@ -1,10 +1,10 @@
-const API_ENDPOINT ="https://u5er4vpoog.execute-api.us-east-1.amazonaws.com/Stage/submitForm";
+const API_ENDPOINT ="https://<api-id>.execute-api.us-east-1.amazonaws.com/<stage>/<endpoint";
 
 /*
     body: {
-        emailAddress: "tope.adekanbi@gmail.com"
-        fullName: "Tope Adekanb"
-        message: "teate"
+        emailAddress: "tester@gmail.com"
+        fullName: "test tester"
+        message: "test messag"
     }
 
     "body": {
